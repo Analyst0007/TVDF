@@ -2,3 +2,4 @@ streamlit
 tradingview-datafeed
 pandas
 matplotlib
+PyAudio
